@@ -1,0 +1,6 @@
+name: ml-basics
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /home/kakarotbot/miniconda3/envs/ml-basics
