@@ -1,7 +1,7 @@
 # Hands-On ML (3rd ed) - Chapter 4: Training Models
 
 ## Progress
-- [ ] 01 Linear Regression (Normal Equation, SVD)
+- [X] 01 Linear Regression (Normal Equation, SVD)
 - [ ] 02 Batch Gradient Descent
 - [ ] 03 Stochastic & Mini-batch GD
 - [ ] 04 Polynomial Regression & Learning Curves
