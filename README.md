@@ -3,7 +3,7 @@
 ## Progress
 - [X] 01 Linear Regression (Normal Equation, SVD)
 - [X] 02 Batch Gradient Descent
-- [ ] 03 Stochastic & Mini-batch GD
+- [X] 03 Stochastic & Mini-batch GD
 - [ ] 04 Polynomial Regression & Learning Curves
 - [ ] 05 Regularized Linear Models (Ridge, Lasso, Elastic Net)
 - [ ] 06 Early Stopping
